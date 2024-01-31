@@ -11,3 +11,6 @@
               sudo systemctl enable apache2
               echo '<h1>This is deployed by Sebastien </h1>' | sudo tee /var/www/html/index.html
               EOF
+
+
+              
